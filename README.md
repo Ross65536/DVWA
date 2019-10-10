@@ -110,7 +110,7 @@ $_DVWA[ 'db_user' ] = 'dvwa';
 $_DVWA[ 'db_password' ] = 'SuperSecretPassword99';
 $_DVWA[ 'db_database' ] = 'dvwa';
 ```
-
+AA
 ### Other Configuration
 
 Depending on your Operating System, as well as version of PHP, you may wish to alter the default configuration. The location of the files will be different on a per-machine basis.
